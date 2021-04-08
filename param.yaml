@@ -1,0 +1,11 @@
+rosdistro: 'noetic
+
+  '
+roslaunch:
+  uris:
+    host_localhost__36895: http://localhost:36895/
+rosversion: '1.15.9
+
+  '
+run_id: 6a1057ea-8e6d-11eb-831f-b183dd6c65d6
+wheel_radius: 3.77
